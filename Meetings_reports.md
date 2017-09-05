@@ -1,7 +1,14 @@
 # Meetings reports
 
+**Meeting of 09/04/2017**
+
+With : Emilie Meyer, Mehdi Benchoufi and Marie-Laure Baranne
+
+Concerning bibliographic review : we validated the informations we are going to collect in each articles (which are principaly : probe tested, gold standard, study design, country context, population, pathology context, training level, outcomes, results).
+Concerning the furure clinical trial : Medhi is going to contact again Pasteur institute based on august's past meeting.
+
 **Meeting of 08/31/2017**
-With : Emilie and Marie-Laure Baranne
+With : Emilie Meyer and Marie-Laure Baranne
 
 Concerning bibliographic review : emilie accepted to be the 2nd reviewer of this work. The objectif is to publisch it.
 Future step are : create the "follow tab" which will group caracteristics of the article selected and fill it.
