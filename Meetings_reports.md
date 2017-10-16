@@ -1,11 +1,20 @@
 # Meetings reports
 
+**Meeting of 10/02/2017**
+With : Emilie Meyer, Mehdi Benchoufi and Marie-Laure Baranne
+
+Concerning bibliographic review: Marie-Laure finished first step which consisted in select article and filled a table of useful informations. Next, we have to start to extract, analyze and present these data. Emilie (second reviewers) still continuing this first step.
+
+Concerning the future clinical trial: a meeting with Pasteur institute will occur for mid-october. 
+
+Concerning the medical team: a cross-disciplinary meeting about the device accessibility will occur the 21st october.
+
 **Meeting of 09/04/2017**
 
 With : Emilie Meyer, Mehdi Benchoufi and Marie-Laure Baranne
 
 Concerning bibliographic review : we validated the informations we are going to collect in each articles (which are principaly : probe tested, gold standard, study design, country context, population, pathology context, training level, outcomes, results).
-Concerning the furure clinical trial : Medhi is going to contact again Pasteur institute based on august's past meeting.
+Concerning the future clinical trial : Medhi is going to contact again Pasteur institute based on august's past meeting.
 
 **Meeting of 08/31/2017**
 With : Emilie Meyer and Marie-Laure Baranne
